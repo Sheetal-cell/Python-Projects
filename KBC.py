@@ -12,7 +12,7 @@ questions = [
     ["Which ancient university in India was one of the world's first residential universities?", "Nalanda", "Takshashila", "Vikramshila", "Banaras Hindu University", "None", 1],
     ["Who was the first woman to become the President of India?", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sushma Swaraj", "None", 2],
     ["Which Indian state has the highest literacy rate?", "Kerala", "Tamil Nadu", "Goa", "Himachal Pradesh", "None", 1],
-    ["Which Indian sportsperson has won the most Olympic medals?", "Sachin Tendulkar", "Sushil Kumar", "P.V. Sindhu", "Abhinav Bindra", "None", 3],
+    ["Which Indian sportsperson has won the most Olympic medals?", "Sachin Tendulkar", "Sushil Kumar", "P.V. Sindhu", "Abhinav Bindra", "None", 3]
   
 ]
 
