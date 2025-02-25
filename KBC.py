@@ -1,5 +1,5 @@
 questions = [
-  ["Which Indian state has the highest GDP?", "Maharashtra", "Tamil Nadu", "Uttar Pradesh", "Gujarat", "None", 1],
+    ["Which Indian state has the highest GDP?", "Maharashtra", "Tamil Nadu", "Uttar Pradesh", "Gujarat", "None", 1],
     ["What was the code name for India's first nuclear test in 1974?", "Operation Vijay", "Smiling Buddha", "Agni Pariksha", "Mission Shakti", "None", 2],
     ["Which Indian economist won the Nobel Prize in Economic Sciences?", "Raghuram Rajan", "Amartya Sen", "Manmohan Singh", "Arvind Subramanian", "None", 2],
     ["Who was the first Indian to receive a Nobel Prize?", "C.V. Raman", "Mother Teresa", "Rabindranath Tagore", "Dr. B.R. Ambedkar", "None", 3],
@@ -7,7 +7,7 @@ questions = [
     ["Which war led to the creation of Bangladesh in 1971?", "Indo-Pak War", "Kargil War", "Sino-Indian War", "Operation Vijay", "None", 1],
     ["Which Indian city is home to the world's largest diamond cutting and polishing industry?", "Jaipur", "Surat", "Mumbai", "Kolkata", "None", 2],
     ["Who was the first Indian to travel to space?", "Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Vikram Sarabhai", "None", 1],
-    ["Which Indian mathematician is known for his contributions to number theory and infinite series?", "C.V. Raman", "Srinivasa Ramanujan", "Aryabhata", "Bhaskara I", "None", 2]
+    ["Which Indian mathematician is known for his contributions to number theory and infinite series?", "C.V. Raman", "Srinivasa Ramanujan", "Aryabhata", "Bhaskara I", "None", 2],
     ["Which Indian city is home to the largest number of billionaires?", "Delhi", "Mumbai", "Bangalore", "Hyderabad", "None", 2],
     ["Which ancient university in India was one of the world's first residential universities?", "Nalanda", "Takshashila", "Vikramshila", "Banaras Hindu University", "None", 1],
     ["Who was the first woman to become the President of India?", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sushma Swaraj", "None", 2],
