@@ -1,24 +1,21 @@
 questions = [
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  ["Which keyword is used to define a function in Python?", "func", "define", "def", "function", "None", 3],
-    ["What will be the output of print(5 + 3)?", "53", "8", "35", "Error", "None", 2],
-    ["Which data type is used to store a sequence of characters?", "int", "float", "str", "bool", "None", 3],
-    ["Which operator is used to check if two values are equal?", "=", "==", "!=", "<>", "None", 2],
-    ["What is the result of len('Hello')?", "4", "5", "6", "Error", "None", 2],
-    ["Which function is used to take user input?", "get()", "scan()", "input()", "read()", "None", 3],
-    ["Which loop is used when the number of iterations is unknown?", "for", "while", "do-while", "foreach", "None", 2],
-    ["What will be the output of print(10 // 3)?", "3.33", "3", "4", "Error", "None", 2],
-    ["Which symbol is used for comments in Python?", "//", "/* */", "#", "--", "None", 3],
-    ["What is the output of bool([])?", "True", "False", "Error", "None", "None", 2],
-    ["Which data structure is used to store key-value pairs?", "List", "Tuple", "Dictionary", "Set", "None", 3],
-    ["Which module is used for generating random numbers?", "math", "random", "numpy", "sys", "None", 2],
-    ["Which function is used to find the maximum value in a list?", "max()", "min()", "sum()", "len()", "None", 1]
+  ["Which Indian state has the highest GDP?", "Maharashtra", "Tamil Nadu", "Uttar Pradesh", "Gujarat", "None", 1],
+    ["What was the code name for India's first nuclear test in 1974?", "Operation Vijay", "Smiling Buddha", "Agni Pariksha", "Mission Shakti", "None", 2],
+    ["Which Indian economist won the Nobel Prize in Economic Sciences?", "Raghuram Rajan", "Amartya Sen", "Manmohan Singh", "Arvind Subramanian", "None", 2],
+    ["Who was the first Indian to receive a Nobel Prize?", "C.V. Raman", "Mother Teresa", "Rabindranath Tagore", "Dr. B.R. Ambedkar", "None", 3],
+    ["Which state in India has the largest coastline?", "Tamil Nadu", "Gujarat", "Andhra Pradesh", "Maharashtra", "None", 2],
+    ["Which war led to the creation of Bangladesh in 1971?", "Indo-Pak War", "Kargil War", "Sino-Indian War", "Operation Vijay", "None", 1],
+    ["Which Indian city is home to the world's largest diamond cutting and polishing industry?", "Jaipur", "Surat", "Mumbai", "Kolkata", "None", 2],
+    ["Who was the first Indian to travel to space?", "Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Vikram Sarabhai", "None", 1],
+    ["Which Indian mathematician is known for his contributions to number theory and infinite series?", "C.V. Raman", "Srinivasa Ramanujan", "Aryabhata", "Bhaskara I", "None", 2]
+    ["Which Indian city is home to the largest number of billionaires?", "Delhi", "Mumbai", "Bangalore", "Hyderabad", "None", 2],
+    ["Which ancient university in India was one of the world's first residential universities?", "Nalanda", "Takshashila", "Vikramshila", "Banaras Hindu University", "None", 1],
+    ["Who was the first woman to become the President of India?", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sushma Swaraj", "None", 2],
+    ["Which Indian state has the highest literacy rate?", "Kerala", "Tamil Nadu", "Goa", "Himachal Pradesh", "None", 1],
+    ["Which Indian sportsperson has won the most Olympic medals?", "Sachin Tendulkar", "Sushil Kumar", "P.V. Sindhu", "Abhinav Bindra", "None", 3],
   
 ]
-print(len(questions))
+
 
 levels = [1000, 2000, 3000, 5000, 10000, 20000, 40000, 80000, 160000, 320000,640000,1280000,2500000,5000000,10000000]
 money = 0
